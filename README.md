@@ -1,6 +1,6 @@
 # Personnal website
 
-Link : [tomboulier.github.io](tomboulier.github.io)
+Link : [tomboulier.github.io](https://tomboulier.github.io/)
 
 This is built using [GitHub Pages with Jekyll](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll) and the [minima template](https://github.com/jekyll/minima).
 
