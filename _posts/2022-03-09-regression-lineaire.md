@@ -8,3 +8,4 @@ Dans cet article, nous aborderons dans un premier temps l'aspect théorique de l
 
 L'idée de la régression linéaire est simple : il s'agit de faire l'approximation qu'entre un ensemble de données et un autre il existe une relation "linéaire", c'est-à-dire du type $y=ax+b$, qui peut être représentée par une droite (cf. figure ci-dessous).
 
+![Exemple de régression linéaire](/assets/images/linear_regression_wikipedia.png)
