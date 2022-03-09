@@ -62,7 +62,7 @@ On constate que la valeur de l'erreur quadratique est plus faible qu'avec nos va
 
 ### Tableurs
 
-- Excel
+- [Excel]({% link /assets/scripts/MetLife_1999_ideal_body_weight_table.xlsx %})
 - Google sheets
 - Open Office
 
