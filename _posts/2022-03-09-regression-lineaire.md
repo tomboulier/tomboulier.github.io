@@ -1,4 +1,9 @@
-La régression linéaire
+---
+layout: post
+title:  "La régression linéaire"
+date:   2022-03-09
+categories: data science geek PAR CHUGA
+---
 
 Aujourd'hui nous allons parler de régression linéaire, l'une des plus anciennes méthodes d'apprentissage statistique. Nous commençons donc volontairement par une piste verte pour s'échauffer et partir sur une base simple dont vous avez probablement tous déjà entendu parler dans votre cursus.
 
